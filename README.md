@@ -40,16 +40,17 @@ These annotated point clouds can be used as input for training models and as gro
 ## Repository Structure
 
 This repository contains code for preprocessing, reconstruction, automatic labeling, and prediction of tree branches for pruning using point cloud data. The code is available on the main branch and is organized into two main folders:
+
 .
 ├── data_pipeline/
 
 └── prediction/
 
-## 📁 `data_pipeline/`
+📁 `data_pipeline/`
 
 This module contains all components required for **data preparation and automatic labeling**.
 
-### Contents
+## Contents
 
 - **Dockerfile**  
   Defines the environment and dependencies required to run the data pipeline.
@@ -59,13 +60,13 @@ This module contains all components required for **data preparation and automati
   - 3D reconstruction
   - Automatic labeling by overlapping point clouds captured **before and after pruning**
 
-### Output
+## Output
 
 The output of this module is **processed and labeled point cloud data**, which is used as input for the prediction stage.
 
 ---
 
-## 📁 `prediction/`
+📁 `prediction/`
 
 This module contains the code required for **inference and pruning prediction**.
 
