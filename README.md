@@ -1,6 +1,7 @@
 # Towards Robotic Pruning:  Automated Annotation and Prediction of Branches for Pruning on Trees Reconstructed using RGB-D Images
 
-<img width="3270" height="1187" alt="image" src="https://github.com/user-attachments/assets/6a5f85a9-42a5-46be-84a4-f1707730f2e0" />
+<img width="709" height="222" alt="image" src="https://github.com/user-attachments/assets/b5e33c06-69f5-440a-a52b-de87760bb1b9" />
+
 
 
 
