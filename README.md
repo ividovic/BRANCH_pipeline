@@ -1,5 +1,5 @@
 # Towards Robotic Pruning:  Automated Annotation and Prediction of Branches for Pruning on Trees Reconstructed using RGB-D Images
-This is the official repository for the pipeline presented in the paper "Towards Robotic Pruning: Automated Annotation and Prediction of Branches for Pruning on Trees Reconstructed using RGB-D Images" submitted to [Sensors](https://www.mdpi.com/journal/sensors) on 8 August 2025.
+This is the official repository for the pipeline presented in the paper "Towards Robotic Pruning: Automated Annotation and Prediction of Branches for Pruning on Trees Reconstructed using RGB-D Images" [1].
 
 Authors: Jana Dukić, Petra Pejić, Ivan Vidović and Emmanuel Karlo Nyarko from [Faculty of Electrical Engineering, Computer Science and Information Technology Osijek, Croatia](https://www.ferit.unios.hr/about-ferit/general)
 
@@ -38,7 +38,7 @@ _Description, instructions and code will be added after the paper publication._
 
 If you use the code and/or dataset, please cite:
 
-\[1\] Dukić, J.; Pejić, P.; Vidović, I.; Nyarko, E.K. Towards Robotic Pruning: Automated Annotation and Prediction of Branches for Pruning on Trees Reconstructed using RGB-D Images, _to be published_
+\[1\] Dukić, J.; Pejić, P.; Vidović, I.; Nyarko, E.K. Towards Robotic Pruning: Automated Annotation and Prediction of Branches for Pruning on Trees Reconstructed Using RGB-D Images. Sensors 2025, 25, 5648. https://doi.org/10.3390/s25185648
 
 and additionally:
 
