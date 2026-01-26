@@ -42,6 +42,7 @@ These annotated point clouds can be used as input for training models and as gro
 This repository contains code for preprocessing, reconstruction, automatic labeling, and prediction of tree branches for pruning using point cloud data. The code is available on the main branch and is organized into two main folders:
 .
 ├── data_pipeline/
+
 └── prediction/
 
 ## 📁 `data_pipeline/`
