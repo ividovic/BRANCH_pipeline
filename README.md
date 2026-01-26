@@ -57,9 +57,9 @@ This module contains all components required for **data preparation and automati
     Defines the environment and dependencies required to run the data pipeline.
 
   - **Python scripts (`.py`)** for:
-    - Point cloud preprocessing (e.g., grass removal)
-    - 3D reconstruction
-    - Automatic labeling by overlapping point clouds captured **before and after pruning**
+    - Point cloud preprocessing (e.g., grass removal) -> BranchVol2_RemoveGrass.py
+    - 3D reconstruction both for before and after pruning-> createOnePCDfromMultipleDepthImages_Teaser.py & combineBeforeAndAfterPruning_Teaser.py 
+    - Automatic labeling by overlapping point clouds captured **before and after pruning** -> findCorrespondenceLabelsFromMergedPointCloudOnBeforePointCloud.py & getLabels.py
 
 - Output:
 
