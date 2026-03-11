@@ -1,14 +1,5 @@
 ## Author: Jana Dukić
 ## Removing Grass points from Branch_vol2 dataset and saving pointcloud, RGB-D images without grass
-## 25.11.2024. Added save, get functions
-## 26.11.2024. Fixed bug with RANSAC stopping program if there is no more than 2 remaining_pcd points in a pointcloud (currently solved using 
-##             try/exept but one IF will do the trick: if number_of_remaining_points <=2 there break RANSAC) -> min 3 points needed for plane search
-## 03.12.2024. Added option save_Data when flag is set in initialization
-## 04.12.2024. Added option to remove all points from found grass_planes 
-## 04.12.2024. Added option for searching grass neighbors with creating squares around each grass point
-## 09.12.2024. -||- now it works 
-## 11.12.2024. Fixed height for grass 0.5m 
-## 2.1.2025. Added searching for only bottom part of the tree AND condition wheather there is any grass or not (BY Z axis) --- also automatization of removing saved files 
 
 
 import matplotlib.pyplot as plt
